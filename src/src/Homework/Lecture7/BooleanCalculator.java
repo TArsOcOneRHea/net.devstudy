@@ -1,4 +1,4 @@
-package homework.Lecture7;
+package Homework.Lecture7;
 import java.util.Scanner;
 
 public class BooleanCalculator {
